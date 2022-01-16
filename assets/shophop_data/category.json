@@ -1,0 +1,37 @@
+[
+  {
+    "count": 16,
+    "description": "",
+    "id": 45,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Men",
+    "parent": 0,
+    "slug": "men",
+    "image": "images/shophop/ic_men.png"
+  },
+  {
+    "count": 6,
+    "description": "",
+    "id": 18,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Women",
+    "parent": 16,
+    "slug": "women",
+    "image": "images/shophop/ic_woman.png"
+
+  },
+  {
+    "count": 1,
+    "description": "",
+    "id": 53,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Kids",
+    "parent": 0,
+    "slug": "Kids",
+    "image": "images/shophop/ic_kids.png"
+
+  }
+]
